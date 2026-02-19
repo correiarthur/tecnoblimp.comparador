@@ -1,0 +1,35 @@
+2026-02-18 23:25:35,783 - INFO - Configuração carregada com sucesso.
+2026-02-18 23:25:35,784 - INFO - Iniciando carregamento dos dados...
+2026-02-18 23:25:36,192 - INFO - Arquivo 'dados/carga.xlsx' carregado: 4 registros.
+2026-02-18 23:25:36,199 - INFO - Arquivo 'dados/sistema.xlsx' carregado: 4 registros.
+2026-02-18 23:25:36,200 - INFO - Iniciando validações configuradas...
+2026-02-18 23:25:36,210 - INFO - Validação 'ComparaCPF': 0 registros não localizados.
+2026-02-18 23:25:36,214 - INFO - Validação 'ComparaCPF_Nome': 0 registros não localizados.
+2026-02-18 23:25:36,216 - INFO - Validação 'ComparaCPF_DtNasc': 0 registros não localizados.
+2026-02-18 23:25:36,219 - INFO - Validação 'ComparaCPF_Sexo': 0 registros não localizados.
+2026-02-18 23:25:36,221 - INFO - Validação 'ComparaCPF_Matricula': 0 registros não localizados.
+2026-02-18 23:25:36,224 - INFO - Resultado Final ('Resultado'): 0 registros com divergência total.
+2026-02-18 23:25:36,224 - INFO - Exportando resultados para 'analise.xlsx'...
+2026-02-18 23:25:36,288 - INFO - Arquivo de análise exportado com sucesso.
+2026-02-18 23:25:36,289 - INFO - Processamento finalizado.
+2026-02-18 23:37:26,301 - INFO - Configuração carregada com sucesso.
+2026-02-18 23:38:27,987 - INFO - Configuração carregada com sucesso.
+2026-02-18 23:38:31,585 - INFO - Configuração carregada com sucesso.
+2026-02-18 23:38:33,609 - INFO - Configuração carregada com sucesso.
+2026-02-18 23:38:33,902 - INFO - Validação 'ComparaCPF': 0 registros não localizados.
+2026-02-18 23:38:33,906 - INFO - Validação 'ComparaCPF_Nome': 0 registros não localizados.
+2026-02-18 23:38:33,908 - INFO - Validação 'ComparaCPF_DtNasc': 0 registros não localizados.
+2026-02-18 23:38:33,911 - INFO - Validação 'ComparaCPF_Sexo': 0 registros não localizados.
+2026-02-18 23:38:33,914 - INFO - Validação 'ComparaCPF_Matricula': 0 registros não localizados.
+2026-02-18 23:38:33,916 - INFO - Resultado Final ('Resultado'): 0 registros com divergência total.
+2026-02-18 23:39:24,721 - INFO - Configuração carregada com sucesso.
+2026-02-18 23:39:24,816 - INFO - Configuração carregada com sucesso.
+2026-02-18 23:39:28,010 - INFO - Configuração carregada com sucesso.
+2026-02-18 23:39:28,072 - INFO - Configuração carregada com sucesso.
+2026-02-18 23:39:28,857 - INFO - Configuração carregada com sucesso.
+2026-02-18 23:39:28,887 - INFO - Validação 'ComparaCPF': 0 registros não localizados.
+2026-02-18 23:39:28,897 - INFO - Validação 'ComparaCPF_Nome': 1 registros não localizados.
+2026-02-18 23:39:28,901 - INFO - Validação 'ComparaCPF_DtNasc': 0 registros não localizados.
+2026-02-18 23:39:28,904 - INFO - Validação 'ComparaCPF_Sexo': 0 registros não localizados.
+2026-02-18 23:39:28,910 - INFO - Validação 'ComparaCPF_Matricula': 0 registros não localizados.
+2026-02-18 23:39:28,914 - INFO - Resultado Final ('Resultado'): 1 registros com divergência total.

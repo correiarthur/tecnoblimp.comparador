@@ -1,0 +1,34 @@
+{
+    "arquivos": {
+        "carga": "dados/carga.xlsx",
+        "sistema": "dados/sistema.xlsx",
+        "saida_analise": "analise.xlsx",
+        "relatorio_erros": "relatorio_inconsistencias.txt"
+    },
+    "validacoes": [
+        {
+            "nome_verificacao": "ComparaCPF",
+            "colunas_chave": ["CPF"]
+        },
+        {
+            "nome_verificacao": "ComparaCPF_Nome",
+            "colunas_chave": ["CPF", "Nome"]
+        },
+        {
+            "nome_verificacao": "ComparaCPF_DtNasc",
+            "colunas_chave": ["CPF", "Data_Nascimento"]
+        },
+        {
+            "nome_verificacao": "ComparaCPF_Sexo",
+            "colunas_chave": ["CPF", "Sexo"]
+        },
+        {
+            "nome_verificacao": "ComparaCPF_Matricula",
+            "colunas_chave": ["CPF", "Matricula"]
+        }
+    ],
+    "validacao_final": {
+        "nome_coluna": "Resultado",
+        "colunas_chave": ["CPF", "Nome", "Data_Nascimento", "Sexo", "Matricula"]
+    }
+}
